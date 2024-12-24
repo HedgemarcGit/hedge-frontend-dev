@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b7ccc34.css",
+    "main.js": "/static/js/main.c82498ce.js",
+    "static/js/453.9626f9cc.chunk.js": "/static/js/453.9626f9cc.chunk.js",
+    "static/media/loginpage.png": "/static/media/loginpage.abfa4d2623b6789201e3.png",
+    "static/media/bulb.png": "/static/media/bulb.755c90f76ef3774c4231.png",
+    "static/media/cloud-coding-svgrepo-com.svg": "/static/media/cloud-coding-svgrepo-com.86d31d8be8d151eb0339ce1bebe55677.svg",
+    "index.html": "/index.html",
+    "main.2b7ccc34.css.map": "/static/css/main.2b7ccc34.css.map",
+    "main.c82498ce.js.map": "/static/js/main.c82498ce.js.map",
+    "453.9626f9cc.chunk.js.map": "/static/js/453.9626f9cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b7ccc34.css",
+    "static/js/main.c82498ce.js"
+  ]
+}
